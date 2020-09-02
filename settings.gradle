@@ -1,0 +1,6 @@
+rootProject.name = 'server'
+
+include 'modules:discovery'
+include 'modules:config'
+include 'modules:user'
+include 'modules:edge'
